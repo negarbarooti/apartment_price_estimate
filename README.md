@@ -5,5 +5,5 @@ this is a standard neural network by supervised learning.
 i used structured data on it.
 
 
-we use this dataset from kaggle :
+i use this dataset from kaggle :
 https://www.kaggle.com/datasets/rushikeshdane20/nashik-apartment-price-prediction
